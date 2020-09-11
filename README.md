@@ -19,6 +19,6 @@ The following image shows an example of what the output of this program may look
 
 ![alt text](terminal_output.png)
 
-The following image shows an example of what the random robot that robohash has generated based on the random word that was received from the api. See the image here as well: https://robohash.org/bargaining
+The following image shows an example of what robohash has generated based on the random word that was received from the api. See the image here as well: https://robohash.org/bargaining
 
 ![alt text](bargaining.png)
