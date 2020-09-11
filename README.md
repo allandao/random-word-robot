@@ -1,6 +1,7 @@
 # Random Word and Robot Generator
 This project generates a random word with the definition, using robohash to generate a random robot for the generated word. 
 
+## Running the script
 To run this project, download the files and navigate to the project files.
 1. Open a terminal or command prompt window
 2. ```cd``` into the root folder
