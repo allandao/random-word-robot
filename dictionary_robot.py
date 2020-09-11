@@ -76,7 +76,6 @@ def get_robot(word):
 		  print(e)
 
 def main():
-	print('Running...')
 	random_word = ''
 	try: 
 		random_word = get_random_word()
@@ -105,4 +104,5 @@ def main():
 	webbrowser.open(random_robot_url) # open link
 
 if __name__ == "__main__":
+	print('Running...')
 	main()
