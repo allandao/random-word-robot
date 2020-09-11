@@ -13,5 +13,5 @@ To run this project, download the files and navigate to the project files.
 5. Run ```python3 dictionary_robot.py``` to run the Python file
 
 ## Terminal Version
-![alt text]terminal_output.png
+![alt text](terminal_output.png)
 ![alt text](bargaining.png)
