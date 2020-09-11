@@ -11,3 +11,6 @@ To run this project, download the files and navigate to the project files.
 3. Run ```source ./env/bin/activate```
 4. Check for (env) to confirm that the Python environment (with all required packages) has properly loaded in 
 5. Run ```python3 dictionary_robot.py``` to run the Python file
+
+## Terminal Version
+![alt text](bargaining.png)
