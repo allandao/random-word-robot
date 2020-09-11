@@ -1,5 +1,5 @@
 # Random Word and Robot Generator
-A project for fun with the goal to generate a random word with the definition, using robohash to generate a random robot for the generated word. 
+A project made for fun with the goal to get a random word with the definition, using robohash to generate a unique robot for the word. 
 
 The file ```dictionary_robot_terminal.py``` is meant to be run in the command line.
 A future goal is to implement the script on PythonAnywhere's scheduled task system to schedule the script to run each day. Alongside what ```dictionary_robot_terminal.py``` does, the updated script will also email the results to a personal email.
