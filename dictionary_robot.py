@@ -1,4 +1,4 @@
-# version of project to open in terminal or command prompt
+# version of project to run in terminal or command prompt
 
 # import libraries
 import requests
