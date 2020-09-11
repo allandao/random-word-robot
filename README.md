@@ -14,7 +14,7 @@ To run this project, download the files and navigate to the project files.
 4. Check for (env) to confirm that the Python environment (with all required packages) has properly loaded in 
 5. Run ```python3 dictionary_robot_terminal.py``` to run the Python file
 
-## Terminal Version
+## Command Line Version
 The following image shows an example of what the output of this program may look like.
 
 ![alt text](terminal_output.png)
