@@ -13,5 +13,7 @@ To run this project, download the files and navigate to the project files.
 5. Run ```python3 dictionary_robot.py``` to run the Python file
 
 ## Terminal Version
+The following image shows an example of what the output of this program may be.
 ![alt text](terminal_output.png)
+The following image shows an example of what the random robot that robohash has generated based on the random word that was received from the api.
 ![alt text](bargaining.png)
