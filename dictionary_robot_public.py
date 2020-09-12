@@ -5,7 +5,7 @@ import requests
 import json # the parsed data is in json format
 import webbrowser
 import random
-import send_email
+import send_email_public
 
 # using the following API for random words: https://random-word-api.herokuapp.com/home
 
@@ -92,12 +92,9 @@ def main():
 
 	email_message += ('\n' + 'URL of randomly generated robot based on word: ' + random_robot_url + '\n')
 
-	# Call the send email method and pass in message and the random word received
-	send_email.email(email_message, random_word) 
-	# TypeError: 'module' object is not callable
-	# The error above will appear if the method within a class is called with no reference to the class
-	# or if a class is called with no reference to any methods
-	# Ex: send_email(email_message) or only email(email_message)
+	# Call the send email function and pass in message and the random word received
+	# Change the provided username and password in send_email_public.py for local use
+	send_email_public.email(email_message, random_word) 
 
 if __name__ == "__main__":
 	print('Running...')
