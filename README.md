@@ -10,7 +10,7 @@ The file ```dictionary_robot_commandline.py``` simply prints out all of the info
 
 On a private computer and on PythonAnywhere, modified versions of ```dictionary_robot_public.py``` and ```send_email_public.py``` are present with personal account details. Through PythonAnywhere's scheduled task system, this script is run daily in order to send a daily word and robot to my personal email! The local modified version is used for debugging and further testing. The public files are available for general use, which is why ```send_email_public.py``` must be modified with account details on line 11 and 12 if used by other users.
 
-Please download and run the scripts at your own discretion. Again, this project was simply made for fun and for personal use.
+Please download and run the scripts at your own discretion. Again, this project was simply made for fun and for personal use!
 
 ## Usage
 To run this project, download the files and navigate to the project files.
