@@ -33,3 +33,10 @@ The following image shows an example of what the output of this program looks li
 
 ![alt text](email_output.png)
 
+## Automation
+As an extension, automated emails can be achieved by using Automator and Calendar on any Mac. The simplest way is by creating a new ```Calendar Alarm``` in Automator, and then using Run Shell Script with the following shell commands
+1. ```cd``` into the root folder of this project (for example: ```cd /Users/username/Desktop/PythonProjects/random-word-robot-python``` )
+2. ```source ./env/bin/activate``` 
+3. ```python3 dictionary_robot.py```
+4. Finally, change the desired start time and how often the script should repeat in Calendar.
+Once all of these steps are complete, emails should send automatically as per Automator and Calendar's respective capabilities.
