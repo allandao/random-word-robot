@@ -13,7 +13,7 @@ def email(email_message, random_word):
 
 	sent_from = gmail_user
 	to = ['<any email>']
-	subject = 'Daily robot for the word: ' + random_word
+	subject = 'Daily robot for the word ' + random_word
 	body_text = email_message
 
 	# Create the container (outer) email message.
