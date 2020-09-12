@@ -45,7 +45,7 @@ def get_definition(word):
 		if definitions:
 			for i in definitions:
 
-				# create a local dictionary using {}
+				# create a local dictionary using {} to append
 				full_definition = {
 					'partOfSpeech': i['partOfSpeech'],
 					'definition': i['definitions'][0]['definition'],
