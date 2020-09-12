@@ -31,5 +31,5 @@ The following image shows an example of what robohash has generated based on the
 
 The following image shows an example of what the output of this program looks like as an email.
 
-![alt text](email_output_image.png)
+![alt text](email_output.png)
 
