@@ -1,1 +1,5 @@
 **/.DS_Store
+send_email_private.py
+dictionary_robot.py
+send_email.py
+__pycache__/send_email.cpython-37.pyc
