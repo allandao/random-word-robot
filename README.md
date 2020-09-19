@@ -43,6 +43,6 @@ Automated emails can be achieved by using Automator and Calendar on any Mac. The
 Finally, change the desired start time and how often the script should repeat in Calendar.
 Once all of these steps are complete, emails should send automatically as per Automator and Calendar's respective capabilities.
 
-PythonAnywhere is a great alternative and will help you send emails each day at a scheduled time automatically, even if your computer is off (unlike with the method above). They even offer a free plan! After creating a PythonAnywhere account, only the scripts need to be uploaded (PythonAnywhere conveniently has all the required libraries already available). The Tasks tab will allow ```python3 random_word_robot_public.py``` to be scheduled to run each day.
+PythonAnywhere is a great alternative and will help you send emails each day at a scheduled time automatically, even if your computer is off (unlike with the method above). They even offer a free plan! After creating a PythonAnywhere account, only the scripts need to be uploaded (PythonAnywhere conveniently has all the required libraries already available). The Tasks tab will allow ```random_word_robot_public.py``` to be scheduled to run each day.
 
 
