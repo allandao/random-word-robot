@@ -24,15 +24,15 @@ To run this project, download the files and navigate to the project files.
 ## Output
 The following image shows an example of what the output of this program looks like in the command line.
 
-![alt text](images/commandline_output.png)
+![Command Line Output](images/commandline_output.png)
 
 The following image shows an example of what robohash has generated based on the random word that was received from the api. See the image here as well: https://robohash.org/bargaining
 
-![alt text](images/bargaining.png)
+![Example robot image - bargaining](images/bargaining.png)
 
 The following image shows an example of what the output of this program looks like as an email.
 
-![alt text](images/email_output.png)
+![Email output](images/email_output.png)
 
 ## Automation
 Automated emails can be achieved by using Automator and Calendar on any Mac. The simplest way is by creating a new ```Calendar Alarm``` in Automator, and then using Run Shell Script with the following shell commands (they can be pasted in, with each command on a new line):
