@@ -12,7 +12,7 @@ def email(email_message, random_word):
 	gmail_password = '<your email password>'
 
 	sent_from = gmail_user
-	to = ['<any email>']
+	to = ['<any email>', '<any email>']
 	subject = 'Daily robot for the word ' + random_word
 	body_text = email_message
 
