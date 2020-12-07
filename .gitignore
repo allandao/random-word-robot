@@ -1,5 +1,7 @@
 **/.DS_Store
-send_email_private.py
 random_word_robot.py
 send_email.py
+send_email_bcc.py
 __pycache__
+
+experiments/
